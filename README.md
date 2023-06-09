@@ -105,3 +105,11 @@ Nova is a responsive and professional mobile app landing page powered by HTML5 a
 Basic is a software and SaaS landing page template developed on top of Bootstrap 4 and HTML5. This template comes with all the essential elements a startup needs to quickly exhibit a digital product. Basic it's fully responsive, coded via multiple blocks, and it’s so flexible that increasing the base components of Bootstrap 4 has never been more accessible.
 
 [Live Demo & Download](https://uideck.com/templates/basic/)
+
+## Appland
+
+![https://imgur.com/GnTmttm](https://res.cloudinary.com/practicaldev/image/fetch/s--1zVHJbWs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/kz7x1n3i7zvlp9jrw3bs.jpg)
+
+Appland is a free and elegant landing page template created specifically for application landings, software, and online tools. Appland is highly functional and it comes with an original design and all necessary elements a startup needs to build compelling landing pages from scratch with pre-built layout views and unlimited creative possibilities.
+
+[Live Demo & Download](https://uideck.com/templates/appland/)
