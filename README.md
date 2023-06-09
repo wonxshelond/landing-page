@@ -1,6 +1,7 @@
 
 
 
+
 # Free Landing Page Bundle
 
 All the templates from the following list are 100% free, carefully crafted by different teams and authors, and built with HTML5 and Bootstrap. Enjoy and feel free to use them for whatever you want.
@@ -62,7 +63,6 @@ April has a simple layout and powerful customisation options for everyone who ne
 
 Prism is a lightweight and modern free template built specifically for open-source projects using Bootstrap 4, CSS, HTML and JavaScript. Users love Prism because is dead simple to use, highly intuitive to modify, and it covers the majority of elements that anyone can expect from a landing page with these kinds of design and functional characteristics.
 
-<<<<<<< HEAD
 [Live Demo & Download](https://www.designbombs.com/freebie/prism/)
 
 ## Knight
@@ -71,7 +71,5 @@ Prism is a lightweight and modern free template built specifically for open-sour
 
 As a brave cavalier in the night, Knight is a dark, modern, and elegant Bootstrap 4 landing page template design specifically for product landing pages. It comes with perks like Feather & Font Awesome icons, slick slider, FAQ list, and many more. Built using HTML5, CSS3, jQuery, and Sass, Knight guarantees incredible responsive performances and smooth customisation options.
 
-[Live Demo & Download](https://webresourcesdepot.com/demo/knight/)
-=======
 [Live Demo & Download](https://www.designbombs.com/freebie/prism/)
->>>>>>> bb7abc88161fc62291557841c66dd7fcea49dda7
+
