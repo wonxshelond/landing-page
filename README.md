@@ -1,6 +1,3 @@
-
-
-
 # Free Landing Page Bundle
 
 All the templates from the following list are 100% free, carefully crafted by different teams and authors, and built with HTML5 and Bootstrap. Enjoy and feel free to use them for whatever you want.
@@ -62,7 +59,6 @@ April has a simple layout and powerful customisation options for everyone who ne
 
 Prism is a lightweight and modern free template built specifically for open-source projects using Bootstrap 4, CSS, HTML and JavaScript. Users love Prism because is dead simple to use, highly intuitive to modify, and it covers the majority of elements that anyone can expect from a landing page with these kinds of design and functional characteristics.
 
-<<<<<<< HEAD
 [Live Demo & Download](https://www.designbombs.com/freebie/prism/)
 
 ## Knight
@@ -71,7 +67,12 @@ Prism is a lightweight and modern free template built specifically for open-sour
 
 As a brave cavalier in the night, Knight is a dark, modern, and elegant Bootstrap 4 landing page template design specifically for product landing pages. It comes with perks like Feather & Font Awesome icons, slick slider, FAQ list, and many more. Built using HTML5, CSS3, jQuery, and Sass, Knight guarantees incredible responsive performances and smooth customisation options.
 
-[Live Demo & Download](https://webresourcesdepot.com/demo/knight/)
-=======
 [Live Demo & Download](https://www.designbombs.com/freebie/prism/)
->>>>>>> bb7abc88161fc62291557841c66dd7fcea49dda7
+
+## Slick
+
+![https://imgur.com/GnTmttm](https://res.cloudinary.com/practicaldev/image/fetch/s--mlXDyctT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/vmig768208lulvcgwoxf.jpg)
+
+Slick is a free and original multi-purpose web template based on Bootstrap 4 and HTML5. Slick offers superior design techniques and the best UI/UX practices to provide an excellent experience on any kind of digital devices, such as desktop, tablet, and mobile. It comes with two different homepage variations for web-based software products and mobile applications.
+
+[Live Demo & Download](https://uideck.com/templates/slick-free-bootstrap-template/)
