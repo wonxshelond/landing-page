@@ -1,3 +1,4 @@
+
 # Free Landing Page Bundle
 
 All the templates from the following list are 100% free, carefully crafted by different teams and authors, and built with HTML5 and Bootstrap. Enjoy and feel free to use them for whatever you want.
@@ -113,3 +114,43 @@ Basic is a software and SaaS landing page template developed on top of Bootstrap
 Appland is a free and elegant landing page template created specifically for application landings, software, and online tools. Appland is highly functional and it comes with an original design and all necessary elements a startup needs to build compelling landing pages from scratch with pre-built layout views and unlimited creative possibilities.
 
 [Live Demo & Download](https://uideck.com/templates/appland/)
+
+## Dazzle
+
+![https://imgur.com/GnTmttm](https://res.cloudinary.com/practicaldev/image/fetch/s--93HFEIVJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/874afgq81sb9nqmh2p6w.jpg)
+
+Dazzle is a responsive one page template with a parallax scrolling layout that was built to offer smooth appearances and unlimited customisation possibilities. Dazzle was designed and developed having the latest design trends in mind, and it is optimised to include all essential elements to create a visually appealing one page for nearly every possible occasion.
+
+[Live Demo & Download](https://onepagelove.com/dazzle)
+
+## New Age
+
+![https://imgur.com/GnTmttm](https://res.cloudinary.com/practicaldev/image/fetch/s--bXE0Yrck--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/hmdc6gzpcai262bgx65z.jpg)
+
+New Age is an app landing page template that will help you beautifully showcase your new mobile app or anything else with absolute joy and peace of mind. The template features different free to use HTML/CSS device placeholders, a custom made navigation with scrolling animations, and semantic markup with nav, parts, and asides. Thanks to its bold, colorful, and stylish look, New is an excellent boilerplate for your next app-based project!
+
+[Live Demo & Download](https://startbootstrap.com/previews/new-age)
+
+## Dev Space
+
+![https://imgur.com/GnTmttm](https://res.cloudinary.com/practicaldev/image/fetch/s--fZK2pfrZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/yy2bsudpfbor7nlf4xsi.jpg)
+
+Dev Space is a highly practical and beautifully designed landing page template produced for app development consultant services. This template is built on top of reliable infrastructure, that includes comprehensive in-house tools, several free streamline icons, a generous illustration pack, and a well-documented code written with efficiency and easy to maintain.
+
+[Live Demo & Download](https://www.lapa.ninja/lab/dev-space)
+
+## Landing
+
+![https://imgur.com/GnTmttm](https://res.cloudinary.com/practicaldev/image/fetch/s--yuOYW3Wn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/qrtbv9hzuebkbrymw7cl.jpg)
+
+Landing is a unique and modern SaaS landing page template with the main focus on smooth user experience to make your site stand out from the crowd. All the images from Landing can be used for personal or commercial projects, and with a wide range of pre-built content blocks and components, this template provides you with an unlimited number of customisation possibilities.
+
+[Live Demo & Download](https://www.tailwindtoolbox.com/templates/landing-page)
+
+## Butterfly
+
+![https://imgur.com/GnTmttm](https://res.cloudinary.com/practicaldev/image/fetch/s--lboXCpg9--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/bpyehblbxhdabeupg1ft.jpg)
+
+Butterfly is a clean and attractive one page Bootstrap template created for company startups that want to showcase a featured section of the call to action connected with the capability of container elements. Overall, the template is wonderfully developed in HTML 5, and all the supported elements are retina-ready for larger monitors and small mobile devices. Butterfly will help you create a stunning landing page that will make your users stop and think.
+
+[Live Demo & Download](https://bootstrapmade.com/butterfly-free-bootstrap-theme/)
