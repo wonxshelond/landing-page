@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> 8ced66d553c99b8a52462c3debb0123b9e4a6f8d
 # Free Landing Page Bundle
 
 All the templates from the following list are 100% free, carefully crafted by different teams and authors, and built with HTML5 and Bootstrap. Enjoy and feel free to use them for whatever you want.
@@ -69,6 +76,7 @@ As a brave cavalier in the night, Knight is a dark, modern, and elegant Bootstra
 
 [Live Demo & Download](https://www.designbombs.com/freebie/prism/)
 
+<<<<<<< HEAD
 ## Slick
 
 ![https://imgur.com/GnTmttm](https://res.cloudinary.com/practicaldev/image/fetch/s--mlXDyctT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/vmig768208lulvcgwoxf.jpg)
@@ -76,3 +84,5 @@ As a brave cavalier in the night, Knight is a dark, modern, and elegant Bootstra
 Slick is a free and original multi-purpose web template based on Bootstrap 4 and HTML5. Slick offers superior design techniques and the best UI/UX practices to provide an excellent experience on any kind of digital devices, such as desktop, tablet, and mobile. It comes with two different homepage variations for web-based software products and mobile applications.
 
 [Live Demo & Download](https://uideck.com/templates/slick-free-bootstrap-template/)
+=======
+>>>>>>> 8ced66d553c99b8a52462c3debb0123b9e4a6f8d
