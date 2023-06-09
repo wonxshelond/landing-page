@@ -1,4 +1,3 @@
-
 # Free Landing Page Bundle
 
 All the templates from the following list are 100% free, carefully crafted by different teams and authors, and built with HTML5 and Bootstrap. Enjoy and feel free to use them for whatever you want.
@@ -98,3 +97,11 @@ Simple is a clean and friendly one page landing page template designed to impres
 Nova is a responsive and professional mobile app landing page powered by HTML5 and Bootstrap 4. Nova is a powerful and super flexible product, which suits perfectly for a vast variety of application landing pages. This template is a perfect solution for everyone looking for a fresh online presence, and something different from the usual website presentation.
 
 [Live Demo & Download](https://www.bootstrapdash.com/product/simple-landing-page)
+
+## Nova
+
+![https://imgur.com/GnTmttm](https://res.cloudinary.com/practicaldev/image/fetch/s--p6wE_Nn3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/h9f4dfaztpi44njq48ek.jpg)
+
+Basic is a software and SaaS landing page template developed on top of Bootstrap 4 and HTML5. This template comes with all the essential elements a startup needs to quickly exhibit a digital product. Basic it's fully responsive, coded via multiple blocks, and it’s so flexible that increasing the base components of Bootstrap 4 has never been more accessible.
+
+[Live Demo & Download](https://uideck.com/templates/basic/)
