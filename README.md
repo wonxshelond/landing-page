@@ -92,3 +92,9 @@ Atlas is a responsive and highly customisable startup landing page that offers n
 Simple is a clean and friendly one page landing page template designed to impress your users with a modern and colorful look. Featuring a handsome neat design, Simple landing page is an ideal candidate for showcasing your early-stage startup, online service, and digital product. The template comes with creative and unique design, human illustrations, pixel perfect icons, and a set of pre-built elements that will make it easy to present main app features and benefits.
 
 [Live Demo & Download](https://www.bootstrapdash.com/product/simple-landing-page)
+
+## Nova
+![https://imgur.com/GnTmttm](https://res.cloudinary.com/practicaldev/image/fetch/s--JpKsKf-c--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/5hm4f3hxb7bwchtcg7p7.jpg)
+Nova is a responsive and professional mobile app landing page powered by HTML5 and Bootstrap 4. Nova is a powerful and super flexible product, which suits perfectly for a vast variety of application landing pages. This template is a perfect solution for everyone looking for a fresh online presence, and something different from the usual website presentation.
+
+[Live Demo & Download](https://www.bootstrapdash.com/product/simple-landing-page)
