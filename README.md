@@ -49,6 +49,16 @@ Web Application is the best way to build a simple HTML landing page that can hel
 [Live Demo & Download](https://finestdevs.com/shade/)
 
 ## April
+
 ![https://imgur.com/GnTmttm](https://res.cloudinary.com/practicaldev/image/fetch/s--eIE7CFHt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/qf0s75h00guuuq0v8w42.jpg)
 April has a simple layout and powerful customisation options for everyone who needs beautiful, responsive components for their projects or newsletter services. With smooth navigation, and a set of valuable coded elements this template has got you covered if you need to display application features, customer testimonials, and a preview of the real product from the top hero part.
+
 [Live Demo & Download](https://cruip.com/demos/april/)
+
+## April
+
+![https://imgur.com/GnTmttm](https://res.cloudinary.com/practicaldev/image/fetch/s--V_BnGjH8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/0wrh4kf9zyeipjujmlro.jpg)
+
+Prism is a lightweight and modern free template built specifically for open-source projects using Bootstrap 4, CSS, HTML and JavaScript. Users love Prism because is dead simple to use, highly intuitive to modify, and it covers the majority of elements that anyone can expect from a landing page with these kinds of design and functional characteristics.
+
+[Live Demo & Download](https://www.designbombs.com/freebie/prism/)
