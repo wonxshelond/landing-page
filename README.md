@@ -1,7 +1,7 @@
+
 # Free Landing Page Bundle
 
 All the templates from the following list are 100% free, carefully crafted by different teams and authors, and built with HTML5 and Bootstrap. Enjoy and feel free to use them for whatever you want.
-
 
 ## Solid
 
@@ -76,3 +76,19 @@ As a brave cavalier in the night, Knight is a dark, modern, and elegant Bootstra
 Slick is a free and original multi-purpose web template based on Bootstrap 4 and HTML5. Slick offers superior design techniques and the best UI/UX practices to provide an excellent experience on any kind of digital devices, such as desktop, tablet, and mobile. It comes with two different homepage variations for web-based software products and mobile applications.
 
 [Live Demo & Download](https://uideck.com/templates/slick-free-bootstrap-template/)
+
+## Atlas
+
+![https://imgur.com/GnTmttm](https://res.cloudinary.com/practicaldev/image/fetch/s--49biHrHZ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/wayb6z44rhjris7xo79v.jpg)
+
+Atlas is a responsive and highly customisable startup landing page that offers numerous awesome features like, promote SaaS, contact us section, elegant hero, pricing tabs, hand-made icons, and product features. With Atlas, you can quickly create any landing page in just a few clicks, and thanks to Bootstrap Framework you can also import your own favorite components.
+
+[Live Demo & Download](https://www.lapa.ninja/freebies/atlas/)
+
+## Simple
+
+![https://imgur.com/GnTmttm](https://res.cloudinary.com/practicaldev/image/fetch/s--s4-kipSi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/3el75t5hah5e6uv3oar8.jpg)
+
+Simple is a clean and friendly one page landing page template designed to impress your users with a modern and colorful look. Featuring a handsome neat design, Simple landing page is an ideal candidate for showcasing your early-stage startup, online service, and digital product. The template comes with creative and unique design, human illustrations, pixel perfect icons, and a set of pre-built elements that will make it easy to present main app features and benefits.
+
+[Live Demo & Download](https://www.bootstrapdash.com/product/simple-landing-page)
